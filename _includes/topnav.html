@@ -15,8 +15,8 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
 
-				{% assign topnav = site.data[page.topnav] %}
-				{% assign topnav_dropdowns = site.data[page.topnav].topnav_dropdowns %}
+				{% assign topnav = site.assets[page.topnav] %}
+				{% assign topnav_dropdowns = site.assets[page.topnav].topnav_dropdowns %}
 								
 				{% for entry in topnav.topnav %}
                 {% for item in entry.items %}
