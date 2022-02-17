@@ -1,11 +1,3 @@
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-data
-  
 repository: brummens/documentation-theme
 
 output: web
