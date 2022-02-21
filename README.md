@@ -1,3 +1,3 @@
-# workspace-docs
+# documentation-theme
 
-https://brummens.github.io/test
+https://brummens.github.io/documentation-theme
