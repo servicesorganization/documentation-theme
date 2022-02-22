@@ -1,3 +1,3 @@
 # documentation-theme
 
-https://brummens.github.io/documentation-theme
+https://servicesorganization.github.io/documentation-theme
