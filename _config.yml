@@ -1,4 +1,4 @@
-repository: brummens/documentation-theme
+repository: servicesorganization/documentation-theme
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: Workspace Services
 company_name: Orange Business Services
 # this appears in the footer
 
-github_editme_path: brummens/documentation-theme/blob/master/
+github_editme_path: servicesorganization/documentation-theme/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # google_analytics: UA-66296557-1
