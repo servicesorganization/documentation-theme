@@ -38,7 +38,7 @@ feedback_email: info@loginconsultants.nl
 feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-togglesidebar_disable: true
+# togglesidebar_disable: true
 # if you uncomment the previous line, the toggle button gets removed
 
 # feedback_text: "Need help?"
