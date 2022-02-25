@@ -7,16 +7,7 @@
 
 h3 {color: #FF7900; }
 h4 {color: #808080; }
-h7 {margin: .67em 0;
-    font-size: 2em;
-    font-family: inherit;
-    font-weight: 500;
-    line-height: 1.1;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    color: #FF7900; 
-    font-size:28px;
-}
+h7 {color: #FF7900; font-size:28px; }
 
     .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #000000;
