@@ -40,7 +40,7 @@
                 {% endfor %}
                 {% endfor %}
 		
-		    
+		<!-- entries without drop-downs appear here -->    
 		{% for entry in topnav.topnav %}
                 {% for item in entry.items %}
                 {% if item.external_url %}
@@ -58,10 +58,12 @@
 		{% include feedback.html %}
 		{% endif %}
 		    
+		{% if site.togglesidebar_disable == null or site.togglesidebar_disable == false %}
 		<!-- toggle sidebar button -->
                 <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
-                <!-- entries without drop-downs appear here -->
-		
+		<!-- toggle sidebar button -->
+		{% endif %}
+                		
                 <!--comment out this block if you want to hide search-->
                 <li>
                     <!--start search-->
